@@ -1,2 +1,2 @@
 # muskox_parasites
-This repository will contain the data and code for a paper submitted to Scientific Reports with the proposed title "Direct and indirect costs of parasitism preceding population decline of an Arctic ungulate". Data and code will be made available when the paper has been accepted for publication. 
+This repository contains the data and code for a paper published in Scientific Reports, Dickinson et al., 2024 "Direct and indirect costs of parasitism preceding population decline of an Arctic ungulate". Partial Least Squares Path Modelling was used to determine the association between parasites, body condition and reproduction in muskoxen. https://doi.org/10.1038/s41598-024-67904-y
